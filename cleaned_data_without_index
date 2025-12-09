@@ -1,0 +1,3 @@
+Name,host id,host_identity_verified,host name,neighbourhood group,neighbourhood,lat,long,country,country code,instant_bookable,cancellation_policy,room type,Construction year,price,service fee,minimum nights,number of reviews,license
+"Cozy 1 BR on Bedford Avenue, Wburg",73023181304,VERIFIED,Christina,Brooklyn,Williamsburg,40.71764,-73.95689,United States,US,1,strict,Private room,2010.0,$702 ,$140 ,1.0,1.0,41662/AL
+"Cozy 1 BR on Bedford Avenue, Wburg",25804773951,UNCONFIRMED,Christina,Brooklyn,Williamsburg,40.71764,-73.95689,United States,US,1,flexible,Private room,2010.0,$702 ,$140 ,1.0,1.0,41662/AL
